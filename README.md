@@ -1,0 +1,2 @@
+# InfiniteTales
+"Infinite Tales" is a revolutionary interactive story generator that redefines narrative engagement. Here, you are not merely a reader, but the architect of destiny. With every choice you make, the narrative branches into countless possibilities, crafting an epic story uniquely yours. Unleash your imagination and immerse yourself in an unprecedented storytelling experience, where every playthrough is a singular adventure!
