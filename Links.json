@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "displayName": "CharacterBang",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_CharacterBang.jpg",
+    "link": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent"
+  },
+  {
+    "id": "2",
+    "displayName": "Mini Wardrobe",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_MiniWardrobe.jpg",
+    "link": "https://gemini.google.com/share/7147b3b02792"
+  },
+  {
+    "id": "3",
+    "displayName": "Outline Generator",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_OutlineGenerator.jpg",
+    "link": "https://novelpd.online/nopd/"
+  },
+  {
+    "id": "4",
+    "displayName": "Game Save Novel Generator",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_GSFNG.jpg",
+    "link": "https://callmygod.com/teleport.php?app=88"
+  }
+]
+
+
+
+
+
