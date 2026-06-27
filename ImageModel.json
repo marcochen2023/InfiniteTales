@@ -13,9 +13,9 @@
   },
   {
     "id": "3",
-    "displayName": "gemini-3-flash-image-preview",
+    "displayName": "gemini-3.1-flash-image",
     "provider": "google",
-    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-image-preview:generateContent"
+    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image:generateContent"
   },
   {
     "id": "4",
