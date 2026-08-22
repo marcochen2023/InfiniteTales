@@ -7,49 +7,56 @@
   },
   {
     "id": "1",
+    "displayName": "OmniPD AI小說創作台",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_OmniPD.jpg",
+    "link": "https://omnipd.cloud/app"
+  },
+  {
+    "id": "2",
+    "displayName": "Omni小說館",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_OmniNovel.jpg",
+    "link": "https://omnipd.cloud/"
+  },
+  {
+    "id": "3",
     "displayName": "Mini Wardrobe Lite 小衣櫥",
     "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_MiniWardrobeLite.jpg",
     "link": "https://pailala.online/teleport.php?app=99"
   },
   {
-    "id": "2",
+    "id": "4",
     "displayName": "Casual Photo 隨影大師",
     "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_CasualPhoto_512.jpg",
     "link": "https://pailala.online/teleport.php?app=98"
   },
   {
-    "id": "3",
+    "id": "5",
     "displayName": "🐧 Penguin Talk 企鵝說",
     "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_PenguinTalk_512.jpg",
     "link": "https://pailala.online/teleport.php?app=104"
   },
   {
-    "id": "4",
+    "id": "6",
     "displayName": "Tour.ME 虛擬旅遊",
     "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_TourME.jpg",
     "link": "https://pailala.online/teleport.php?app=57"
   },
   {
-    "id": "5",
+    "id": "7",
     "displayName": "LOVE-Z Chat 私密聊天室",
     "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_LOVEZ_Chat.jpg",
     "link": "https://pailala.online/teleport.php?app=76"
   },
   {
-    "id": "6",
+    "id": "8",
     "displayName": "Infinite Tales 無限物語",
     "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_InfiniteTales.jpg",
     "link": "https://pailala.online/teleport.php?app=103"
   },
   {
-    "id": "7",
+    "id": "9",
     "displayName": "Banana Diffusion Pro 奈米香蕉大師",
     "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_BananaDiffusionPRO.jpg",
     "link": "https://pailala.online/teleport.php?app=78"
   }
 ]
-
-
-
-
-
