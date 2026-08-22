@@ -1,27 +1,51 @@
 [
   {
-    "id": "1",
+    "id": "0",
     "displayName": "CharacterBang 角色生成器",
     "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_CharacterBang.jpg",
-    "link": "https://gemini.google.com/share/b81170d0c5be"
+    "link": "https://pailala.online/teleport.php?app=97"
+  },
+  {
+    "id": "1",
+    "displayName": "Mini Wardrobe Lite 小衣櫥",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_MiniWardrobeLite.jpg",
+    "link": "https://pailala.online/teleport.php?app=99"
   },
   {
     "id": "2",
-    "displayName": "Mini Wardrobe Lite 小衣櫥",
-    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_MiniWardrobeLite.jpg",
-    "link": "https://gemini.google.com/share/a246a3627fee"
+    "displayName": "Casual Photo 隨影大師",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_CasualPhoto_512.jpg",
+    "link": "https://pailala.online/teleport.php?app=98"
   },
   {
     "id": "3",
-    "displayName": "Outline Generator",
-    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_OutlineGenerator.jpg",
-    "link": "https://g.co/gemini/share/3033a2843dc2"
+    "displayName": "🐧 Penguin Talk 企鵝說",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_PenguinTalk_512.jpg",
+    "link": "https://pailala.online/teleport.php?app=104"
   },
   {
     "id": "4",
-    "displayName": "Game Save Novel Generator",
-    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_GSFNG.jpg",
-    "link": "https://g.co/gemini/share/148363297a37"
+    "displayName": "Tour.ME 虛擬旅遊",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_TourME.jpg",
+    "link": "https://pailala.online/teleport.php?app=57"
+  },
+  {
+    "id": "5",
+    "displayName": "LOVE-Z Chat 私密聊天室",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_LOVEZ_Chat.jpg",
+    "link": "https://pailala.online/teleport.php?app=76"
+  },
+  {
+    "id": "6",
+    "displayName": "Infinite Tales 無限物語",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_InfiniteTales.jpg",
+    "link": "https://pailala.online/teleport.php?app=103"
+  },
+  {
+    "id": "7",
+    "displayName": "Banana Diffusion Pro 奈米香蕉大師",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_BananaDiffusionPRO.jpg",
+    "link": "https://pailala.online/teleport.php?app=78"
   }
 ]
 
